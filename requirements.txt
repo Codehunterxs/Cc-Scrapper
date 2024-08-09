@@ -1,0 +1,9 @@
+telegraph
+telethon
+prettytable
+requests
+configparser
+asyncio
+TGcrypto
+asyncio
+cryptography
