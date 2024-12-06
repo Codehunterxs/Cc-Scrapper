@@ -27,7 +27,7 @@ Must Keep The @unsack @bwmethood.txt File in same directory ..
 ━━━━━━━━━━━━━━━━
 ![Screenshot 2024-08-09 195112](https://github.com/user-attachments/assets/8acdf047-ed6a-4225-b25d-a1bdcd633b35)
 
-And Please Join https://t.me/Bwmethood
+Provider: @St_2St
 To Support Us ..
 
 
