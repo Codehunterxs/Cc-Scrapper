@@ -20,7 +20,7 @@ You can decode it .
 Use screen for 24/7 run
 
 Run Code And Login Account Then It Will Ask For Desitination .. Adding Headers Footers ... 
-And This file Provided For Learning Purpose use At Own Risk . we are not responsible for any harm caused by this tool.
+And This file Provided For Learning Purpose use At Own Risk . we are not responsible for any activity caused by this tool.
 
 
 Must Keep The @unsack @bwmethood.txt File in same directory ..
