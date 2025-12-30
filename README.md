@@ -1,7 +1,7 @@
 # Cc-Scrappe
 
-!! USAGE MANUAL - VPS !!
-━━━━━━━━━━━━━━━━
+!! Linux/ubuntu instalation   !!
+
 
 [⌥] First Run -
 git clone https://github.com/Codehunterxs/Cc-Scrapper
