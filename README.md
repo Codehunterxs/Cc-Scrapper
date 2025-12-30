@@ -1,6 +1,4 @@
-# Cc-Scrapper
-
-![photo_2024-08-09_15-12-53](https://github.com/user-attachments/assets/d689f584-1d96-42f8-8e88-9cc2b4335634)
+# Cc-Scrappe
 
 !! USAGE MANUAL - VPS !!
 ━━━━━━━━━━━━━━━━
@@ -18,6 +16,8 @@ pip3 install -r requirements.txt
 python3 main.py
 
 ━━━━━━━━━━━━━━━━
+You can decode it .
+Use screen for 24/7 run
 
 Notice- No Need to edit Code Just Run Code And Login Account Then It Will Ask For Desitination .. Adding Headers Footers ... 
 And This file Provided For Learning Purpose use At Own Risk . we are not responsible for any harm caused by this tool.
