@@ -19,7 +19,7 @@ python3 main.py
 You can decode it .
 Use screen for 24/7 run
 
-Notice- No Need to edit Code Just Run Code And Login Account Then It Will Ask For Desitination .. Adding Headers Footers ... 
+Run Code And Login Account Then It Will Ask For Desitination .. Adding Headers Footers ... 
 And This file Provided For Learning Purpose use At Own Risk . we are not responsible for any harm caused by this tool.
 
 
